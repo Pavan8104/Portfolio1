@@ -607,7 +607,7 @@ section{
         }
     
 }
-@media (max-width: 898px) {
+@media (max-width: 971px) {
     /* Adjusting Navbar */
     nav {
         height: 8vh; /* Reducing navbar height */
