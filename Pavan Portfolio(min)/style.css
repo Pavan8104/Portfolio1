@@ -460,10 +460,7 @@ section{
     box-shadow: 4px 6px 15px rgba(0, 0, 0, 0.3); /* Enhanced shadow */
 }
 @media (max-width: 764px) {
-    /* Adjusting Navbar */
-    nav {
-        height: 8vh; /* Reducing navbar height */
-    }
+    
     
     .nav-container {
         flex-direction: column;
@@ -484,17 +481,17 @@ section{
         display: none;
     }
 
-    /* .dropdown {
+    .dropdown {
         width: 100%;
         transform: translateY(0);
         height: auto;
-    } */
+    }
 
-    /* .dropdown .links {
+    .dropdown .links {
         display: flex;
         flex-direction: column;
         align-items: center;
-    } */
+    }
 
     /* Adjusting Main Section */
     .main-container {
